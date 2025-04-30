@@ -1,4 +1,6 @@
 # gif-cutting
+
+Python con imageio o Pillow + moviepy:
 ```
 from moviepy.editor import VideoFileClip
 
